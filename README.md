@@ -31,8 +31,7 @@ This project is licensed under the **MIT License**.
       * `Outcome`: This folder will store the final CSV reports.
       * `Raster_outcome`: This folder will store the aggregated raster files.
       * `Aggregated_outcome`: This folder will store the long-term average rasters.
- <img width="2312" height="1077" alt="image" src="https://github.com/user-attachments/assets/cec4240b-614a-46a2-bd81-f5217aca01af" />
-
+<img width="2312" height="1077" alt="image" src="https://github.com/user-attachments/assets/7e3dc3a5-6212-432d-9d50-e7c6b6b74912" />
 
 **2. Running the Scripts**
 
